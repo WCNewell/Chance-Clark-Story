@@ -1,3 +1,5 @@
 This is a story about pulling and pushing from git.
 
 Once upon a time there were 30 students who all came together in one place.
+
+This lovely placed was called the land of Galvanize.
